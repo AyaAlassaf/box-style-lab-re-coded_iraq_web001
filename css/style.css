@@ -40,17 +40,21 @@ h4 {
 .column {
   width: 30%;
   display: inline-block;
+  
 }
 
 .small {
   width: 100%;
   height: 100%;
+  border: 2px solid darkgrey;
 }
 
 .med {
   width: 203.5%;
+  border: 2px solid darkgrey;
 }
 
 .large {
   width: 303%;
+  border: 2px solid darkgrey;
 }
